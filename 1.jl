@@ -17,4 +17,4 @@ function main()
     println(convert(Int, trunc(sum)))
 end
 
-main()
+@time main()
