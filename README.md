@@ -1,2 +1,2 @@
-# Project_Euler
-My solutions for the Project Euler
+# ProjectEuler.jl
+My solutions for the Project Euler in julia
